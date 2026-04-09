@@ -1,0 +1,11 @@
+# Archivos del sistema Mac
+.DS_Store
+
+# Node (si usas JS)
+node_modules/
+
+# Archivos temporales
+*.log
+
+# PDFs (opcional si no quieres subirlos)
+*.pdf
