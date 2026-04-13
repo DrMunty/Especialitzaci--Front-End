@@ -1,0 +1,26 @@
+{
+  "name": "time-and-date-albert",
+  "version": "0.0.1",
+  "description": "This package will show the actual time and date",
+  "keywords": [
+    "javascript",
+    "node",
+    "practice"
+  ],
+  "homepage": "https://github.com/DrMunty/Especialitzaci--Front-End#readme",
+  "bugs": {
+    "url": "https://github.com/DrMunty/Especialitzaci--Front-End/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrMunty/Especialitzaci--Front-End.git"
+  },
+  "license": "MIT",
+  "author": "Albert Muntal Perez",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0",
+    "start": "node index.js"
+  }
+}
