@@ -49,3 +49,11 @@ Per identificar punts de fricció abans de programar, un **User Flow** ha d'incl
 * **Punts de Sortida i Objectius**: El flux ha d'acabar quan l'usuari assoleix el seu objectiu o abandona el sistema.
 
 Incloure aquests detalls permet estalviar hores de depuració en detectar on l'usuari es pot sentir perdut o on el sistema pot oferir una resposta inesperada abans d'escriure una sola línia de codi.
+
+## Tasca S0.08 - Registre d'usuaris
+
+![Diagrama](UserRegistry.png)
+
+## Tasca S0.09 - Botiga Online
+
+![Diagrama](onlineStore.png)
