@@ -83,7 +83,7 @@ La depuració professional va més enllà de fer servir console.log. VS Code inc
 * **Breakpoints**: Punts on l'execució s'atura per inspeccionar l'estat del programa.  
 * **Watch Expressions**: Permeten monitorar el valor d'una variable o expressió específica mentre avances pel codi.  
 * **Call Stack**: Mostra l'ordre de les crides a funcions que han portat a l'estat actual.  
-* 
+
 
 ### **GitHub Copilot i l'ús d'IA**
 
