@@ -1,6 +1,6 @@
 # **Fonaments del Terminal Linux: Sistema de Fitxers, Gestió de Processos i Configuració d'Entorn**
 
-El terminal de Linux constitueix la interfície fonamental per a l'administració de sistemes i el desenvolupament de programari. A diferència de les interfícies gràfiques (GUI), que prioritzen la facilitat d'ús visual, el terminal ofereix un control granular, eficiència en el consum de recursos i capacitats d'automatització mitjançant la línia d'ordres (CLI).
+El terminal de Linux constitueix l'interfície fonamental per a l'administració de sistemes i el desenvolupament de programari. A diferència de les interfícies gràfiques (GUI), que prioritzen la facilitat d'ús visual, el terminal ofereix un control granular, eficiència en el consum de recursos i capacitats d'automatització mitjançant la línia d'ordres (CLI).
 
 ## **1\. Introducció al Terminal Linux i la Shell**
 
