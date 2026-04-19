@@ -11,7 +11,7 @@ La web es un servei construit sobre una infraestructura tècnica que s'anomena i
 ## INTERNET
 En la seva idea més bàsica, Internet es una xarxa d'ordinadors que es comuniquen entre sí. Per a que dos ordinadors es puguin comunciar han d'estar connectats entre sí, ja sigui de forma física (amb un cable Ethernet) o mitjançant la xarxa WIFI. <br>
 
-Un ordinador pot estar conectat a més d'un ordinador, però per simplificar les conexions,existeix un aparell anomenat Router on es poden conectar molts ordinadors de forma simultànea.
+Un ordinador pot estar conectat a més d'un ordinador, però per simplificar les conexions, existeix un aparell anomenat Router on es poden conectar molts ordinadors de forma simultànea.
 
 La funció del Router es simple, assegurar-se que el missatge d'un ordinador arribi al ordinador desitjat. A la seva vegada els Routers poden estar connectats a altres Routers. Aquesta xarxa funciona amb la xarxa telefònica. Per enviar un missatge s'ha de connectar la nostra xarxa a un operador de serveis d'internet (ISP). Un ISP es una empresa que gestiona Routers inteconectats que poden accedir també a Routers d'altres proveïdors. Llavors el nostre misstage viatja a través d'aquestes xarxes fins arribar al seu destí.
 
@@ -59,7 +59,7 @@ Son dispositius que, entre client i servidor, gestionen els missatges HTTP. Fan 
 
 ## Característiques claus del protocol HTTP
 
-- Sencillo: Esta pensat i desenvolupat per ser fàcilment llegit i interpretat per les persones.
+- Senzill: Esta pensat i desenvolupat per ser fàcilment llegit i interpretat per les persones.
 
 - Extensible: Es fàcil d'ampliar i experimentar amb ell.
 
@@ -73,7 +73,7 @@ Son dispositius que, entre client i servidor, gestionen els missatges HTTP. Fan 
 
 - Flexibilitat del requisit d'origen: A partir de capçaleres HTTP, es pot flexibilitzar o relaxar la divisió entre client i servidor.
 
-- Autentificació: Proveeix serveis bàsics d'autentificació, amb l'ús de caçaleres específiques o establint un a sessió específica mitjançant l'ús de cookies.
+- Autentificació: Proveeix serveis bàsics d'autentificació, amb l'ús de caçaleres específiques o establint una sessió específica mitjançant l'ús de cookies.
 
 - Sessions: Permet relacionar peticions amb l'estat del servidor.
 
@@ -93,7 +93,7 @@ Son dispositius que, entre client i servidor, gestionen els missatges HTTP. Fan 
 
 Existeixen les peticions i les respostes:
 
-- Peticions: Formades per un métode HTTP (un verb com Get/Post o un nom com Options/Head que defineix l'operació que el client vol realitzar). Inclouen també la direcció del rescurs demanat (URL), la versió del protocol HTTP i capçaleres HTTP opcionals.
+- Peticions: Formades per un métode HTTP (un verb com Get/Post o un nom com Options/Head que defineix l'operació que el client vol realitzar). Inclouen també la direcció del recurs demanat (URL), la versió del protocol HTTP i capçaleres HTTP opcionals.
 
 - Respostes: Formades per la versió del protocol HTTP que s'està utilitzant, un còdi d'estat (si la petició ha sigut exitosa o no), un missatge d'estat (és la descripció del codi anterior), capçaleres HTTP i el recurs que s'ha demanat.
 
@@ -130,7 +130,7 @@ L'anàlisi (parsing) és el primer pas. El motor del navegador analitza el marca
 
 ### **Disseny, Pintura i Composició**
 
-Un cop determinats els nodes visibles, el navegador entra en la fase de **Disseny (Layout)**, on es calcula la geometria de cada element —mida i posició— basant-se en el viewport. La fase de **Pintura (Paint)** és on aquests "quadres" calculats es converteixen en píxels reals en pantalla (rasterització).3 Finalment, la composició gestiona com les diferents capes s'uneixen. Cal tenir en compte que JavaScript s'executa majoritàriament en el "fil principal" (main thread), el mateix que s'encarrega del renderitzat, per la qual cosa tasques llargues de codi poden bloquejar la interfície.
+Un cop determinats els nodes visibles, el navegador entra en la fase de **Disseny (Layout)**, on es calcula la geometria de cada element —mida i posició— basant-se en el viewport. La fase de **Pintura (Paint)** és on aquests "quadres" calculats es converteixen en píxels reals en pantalla (rasterització). Finalment, la composició gestiona com les diferents capes s'uneixen. Cal tenir en compte que JavaScript s'executa majoritàriament en el "fil principal" (main thread), el mateix que s'encarrega del renderitzat, per la qual cosa tasques llargues de codi poden bloquejar la interfície.
 
 ### **Motors de Renderització Actuals**
 
@@ -144,7 +144,7 @@ Un **Content Management System (CMS)** permet als usuaris publicar, organitzar i
 
 ### **Tipus de CMS segons la seva Arquitectura Tècnica**
 
-1. **CMS Acoblat (Tradicional):** On el back-end i el front-end estan estretament vinculats, com WordPress o Drupal.15  
+1. **CMS Acoblat (Tradicional):** On el back-end i el front-end estan estretament vinculats, com WordPress o Drupal.  
 2. **CMS SaaS (Software as a Service):** Solucions allotjades al núvol com Wix o Squarespace.
 3. **CMS Desacoblat:** Separa la presentació del back-end i es comunica a través d'una API.  
 4. **Headless CMS (Sense cap):** Només proporciona el back-end i l'emmagatzematge del contingut, deixant la interfície completament en mans d'una aplicació dissenyada a mida.
@@ -177,7 +177,7 @@ L'accessibilitat web garanteix que les persones amb discapacitat puguin interact
 
 ### **Optimització SEO i Core Web Vitals**
 
-L'SEO modern se centra en l'experiència de l'usuari (Core Web Vitals) i el marc E-E-A-T (Experiència, Expertesa, Autoritat, Confiança).26 Les mètriques clau inclouen l'**LCP** (temps de càrrega del contingut principal), l'**INP** (latència d'interacció) i el **CLS** (estabilitat visual).
+L'SEO modern se centra en l'experiència de l'usuari (Core Web Vitals) i el marc E-E-A-T (Experiència, Expertesa, Autoritat, Confiança). Les mètriques clau inclouen l'**LCP** (temps de càrrega del contingut principal), l'**INP** (latència d'interacció) i el **CLS** (estabilitat visual).
 
 ## **Manipulació del DOM i Interactivitat**
 
